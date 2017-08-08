@@ -3,13 +3,15 @@
 1. 01
 2. 02
 
-* dd
-* dd
-* dd
+3. dd
 
-* [ ] ddd
-* [ ] ddd
-* [ ] ddd
+4. dd
+5. dd
+
+6. [ ] ddd
+
+7. [ ] ddd
+8. [ ] ddd
 
 > ddd
 >
@@ -22,11 +24,15 @@ d
 
 $$x = y$$
 
+![](/assets/采集logo.png)
+
+![](/assets/logo1.4.png)
+
+
+
+
+
 ---
-
-
-
-
 
 [^2]: Enter footnote here.
 
