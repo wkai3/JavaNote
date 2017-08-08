@@ -6,12 +6,14 @@
 3. dd
 
 4. dd
+
 5. dd
 
 6. [ ] ddd
 
-7. [ ] ddd
-8. [ ] ddd
+1. [ ] ddd
+
+2. [ ] ddd
 
 > ddd
 >
@@ -27,10 +29,6 @@ $$x = y$$
 ![](/assets/采集logo.png)
 
 ![](/assets/logo1.4.png)
-
-
-
-
 
 ---
 
