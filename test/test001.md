@@ -26,10 +26,6 @@ d
 
 $$x = y$$
 
-
-
-![](/assets/logo1.4.png)
-
 ---
 
 [^2]: Enter footnote here.
