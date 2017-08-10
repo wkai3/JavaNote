@@ -142,7 +142,6 @@ public class StringIntern {
         s.test4();
     }
 }
-
 ```
 
 
